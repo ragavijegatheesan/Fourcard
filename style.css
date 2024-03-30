@@ -74,10 +74,10 @@ color: var(--GrayishBlue);
 {
     0%
     {
-       opacity: 0;
+      transform: rotateX(0deg) rotateY(60deg);
     }
     100%{
-        opacity: 0.9;
+       transform: rotateX(0deg) rotateY(0deg);
     }
 }
 .card>h1
