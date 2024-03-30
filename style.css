@@ -15,10 +15,7 @@
 
 --font:15px;
 }
-.container
-{
-    max-width: 1150px;
-}
+
 body
 {
     background-color: var(--VeryLightGray);
