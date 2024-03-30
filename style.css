@@ -15,7 +15,7 @@
 
 --font:15px;
 }
-.main
+.container
 {
     max-width: 1150px;
 }
@@ -109,7 +109,7 @@ color: var(--GrayishBlue);
 .card>img
 {
     float: right;
-    margin-top: 15px;
+    margin-top: 25px;
     width: 20%;
 }
 @media only screen and (max-width: 780px)
